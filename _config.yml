@@ -1,11 +1,11 @@
 # Site
 title:              Fang64's Site
-bio:                "Fang64's Site"
-description:        "Mostly just a site about technology, security, and other topics."
+bio:                "Mostly just my musings about technology and other topics."
+description:        "Mostly just my musings about technology and other topics."
 reading_time:       true
 words_per_minute:   160
-logo:               'http://1.gravatar.com/avatar/2d3fb3856d88f968c3c1162208d72a51'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'http://gravatar.com/avatar/2d3fb3856d88f968c3c1162208d72a51?s=300'
+background:         'assets/img/mountain.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://fang64.github.io/website
