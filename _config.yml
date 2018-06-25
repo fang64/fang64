@@ -5,10 +5,10 @@ description:        "Mostly just my musings about technology and other topics."
 reading_time:       true
 words_per_minute:   160
 logo:               https://gravatar.com/avatar/2d3fb3856d88f968c3c1162208d72a51?s=100
-background:         'https://www.fang64.com/assets/img/mountain.jpg'
+background:         'https://fang64.com/assets/img/mountain.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://www.fang64.com
+url:                https://fang64.com
 
 # Jekyll
 permalink:          /:title/
