@@ -8,7 +8,7 @@ logo:               https://gravatar.com/avatar/2d3fb3856d88f968c3c1162208d72a51
 background:         'https://fang64.github.io/assets/img/mountain.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://fang64.github.io
+url:                https://www.fang64.com
 
 # Jekyll
 permalink:          /:title/
